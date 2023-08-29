@@ -1,4 +1,4 @@
-public class ceiningofanumber
+public class floorofanumber
 {
     public static void main(String[] args) {
         int[] arr = {2, 3, 5, 9, 14, 16, 18};
@@ -36,7 +36,7 @@ public class ceiningofanumber
                 return middle;
             }
         }
-        return start;
+        return end;
     }
 
 }
