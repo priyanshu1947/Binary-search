@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="searching the index of target element using binary search.">
-      <change afterPath="$PROJECT_DIR$/src/findaccendingordecending.java" afterDir="false" />
+    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="find ascending descending and search the indices target element">
+      <change afterPath="$PROJECT_DIR$/src/ceiningofanumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +40,16 @@
     "last_opened_file_path": "C:/Users/Priyanshu kumar/IdeaProjects/Binarysearch1/Binarysearch"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.findaccendingordecending">
+  <component name="RunManager" selected="Application.ceiningofanumber">
     <configuration name="FindAscendingOrDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindAscendingOrDescending" />
+      <module name="Binarysearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ceiningofanumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ceiningofanumber" />
       <module name="Binarysearch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ceiningofanumber" />
         <item itemvalue="Application.findaccendingordecending" />
         <item itemvalue="Application.FindAscendingOrDescending" />
         <item itemvalue="Application.searchingusingbinary" />
@@ -86,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693318210565</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="find ascending descending and search the indices target element">
+      <created>1693326577836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693326577836</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="searching the index of target element using binary search." />
-    <option name="LAST_COMMIT_MESSAGE" value="searching the index of target element using binary search." />
+    <MESSAGE value="find ascending descending and search the indices target element" />
+    <option name="LAST_COMMIT_MESSAGE" value="find ascending descending and search the indices target element" />
   </component>
 </project>
