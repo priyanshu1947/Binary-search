@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="find ascending descending and search the indices target element">
-      <change afterPath="$PROJECT_DIR$/src/ceiningofanumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target">
+      <change afterPath="$PROJECT_DIR$/src/findinglettersgreaterthantarget.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "last_opened_file_path": "C:/Users/Priyanshu kumar/IdeaProjects/Binarysearch1/Binarysearch"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ceiningofanumber">
+  <component name="RunManager" selected="Application.findinglettersgreaterthantarget">
     <configuration name="FindAscendingOrDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindAscendingOrDescending" />
       <module name="Binarysearch" />
@@ -62,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="findinglettersgreaterthantarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findinglettersgreaterthantarget" />
+      <module name="Binarysearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="searchingusingbinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="searchingusingbinary" />
       <module name="Binarysearch" />
@@ -71,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.findinglettersgreaterthantarget" />
         <item itemvalue="Application.ceiningofanumber" />
         <item itemvalue="Application.findaccendingordecending" />
         <item itemvalue="Application.FindAscendingOrDescending" />
@@ -101,7 +108,28 @@
       <option name="project" value="LOCAL" />
       <updated>1693326577836</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target">
+      <created>1693332176792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693332176792</updated>
+    </task>
+    <task id="LOCAL-00004" summary="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target">
+      <created>1693332348297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693332348297</updated>
+    </task>
+    <task id="LOCAL-00005" summary="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target">
+      <created>1693332419744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693332419744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +146,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="searching the index of target element using binary search." />
     <MESSAGE value="find ascending descending and search the indices target element" />
-    <option name="LAST_COMMIT_MESSAGE" value="find ascending descending and search the indices target element" />
+    <MESSAGE value="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target&#10;(floor = less than or = target)" />
+    <MESSAGE value="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target" />
+    <option name="LAST_COMMIT_MESSAGE" value="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target" />
   </component>
 </project>
