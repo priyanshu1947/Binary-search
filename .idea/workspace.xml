@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target">
-      <change afterPath="$PROJECT_DIR$/src/findinglettersgreaterthantarget.java" afterDir="false" />
+    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="find letters greater than the target leetcode 744">
+      <change afterPath="$PROJECT_DIR$/src/findtargetininfinitesortedarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Priyanshu kumar/IdeaProjects/Binarysearch1/Binarysearch"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Priyanshu kumar/IdeaProjects/Binarysearch1/Binarysearch&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.findinglettersgreaterthantarget">
+}</component>
+  <component name="RunManager" selected="Application.findtargetininfinitesortedarray">
     <configuration name="FindAscendingOrDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindAscendingOrDescending" />
       <module name="Binarysearch" />
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchingusingbinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchingusingbinary" />
+    <configuration name="findtargetininfinitesortedarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findtargetininfinitesortedarray" />
       <module name="Binarysearch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.findtargetininfinitesortedarray" />
         <item itemvalue="Application.findinglettersgreaterthantarget" />
         <item itemvalue="Application.ceiningofanumber" />
         <item itemvalue="Application.findaccendingordecending" />
         <item itemvalue="Application.FindAscendingOrDescending" />
-        <item itemvalue="Application.searchingusingbinary" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693332419744</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="find letters greater than the target leetcode 744">
+      <created>1693337126357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693337126358</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +156,7 @@
     <MESSAGE value="find ascending descending and search the indices target element" />
     <MESSAGE value="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target&#10;(floor = less than or = target)" />
     <MESSAGE value="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target" />
-    <option name="LAST_COMMIT_MESSAGE" value="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target" />
+    <MESSAGE value="find letters greater than the target leetcode 744" />
+    <option name="LAST_COMMIT_MESSAGE" value="find letters greater than the target leetcode 744" />
   </component>
 </project>
