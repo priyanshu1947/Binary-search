@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="find target ininfinite sorted array">
-      <change afterPath="$PROJECT_DIR$/src/bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mountaininarray.java" afterDir="false" />
+    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="sorting array using cyclic sort">
+      <change afterPath="$PROJECT_DIR$/src/duplicatesinarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,30 +40,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Priyanshu kumar/IdeaProjects/Binarysearch1/Binarysearch&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bubblesort">
-    <configuration name="bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bubblesort" />
-      <module name="Binarysearch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ceiningofanumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ceiningofanumber" />
-      <module name="Binarysearch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="findaccendingordecending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findaccendingordecending" />
-      <module name="Binarysearch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="findinglettersgreaterthantarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findinglettersgreaterthantarget" />
+  <component name="RunManager" selected="Application.cyclesort">
+    <configuration name="cyclesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cyclesort" />
       <module name="Binarysearch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,13 +55,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="insertionsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="insertionsort" />
+      <module name="Binarysearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mountaininarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mountaininarray" />
+      <module name="Binarysearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selectionsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selectionsort" />
+      <module name="Binarysearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bubblesort" />
+        <item itemvalue="Application.cyclesort" />
+        <item itemvalue="Application.insertionsort" />
+        <item itemvalue="Application.selectionsort" />
+        <item itemvalue="Application.mountaininarray" />
         <item itemvalue="Application.findtargetininfinitesortedarray" />
-        <item itemvalue="Application.findinglettersgreaterthantarget" />
-        <item itemvalue="Application.ceiningofanumber" />
-        <item itemvalue="Application.findaccendingordecending" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,42 @@
       <option name="project" value="LOCAL" />
       <updated>1693376727895</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="swapping of number sorting of array using bubble sort">
+      <created>1693629523396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693629523396</updated>
+    </task>
+    <task id="LOCAL-00009" summary="returning peak elememnt in mountain array">
+      <created>1693630257721</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693630257721</updated>
+    </task>
+    <task id="LOCAL-00010" summary="sorting array using selection sort">
+      <created>1693633678980</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693633678980</updated>
+    </task>
+    <task id="LOCAL-00011" summary="sorting array using insertion sort">
+      <created>1693637540406</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693637540406</updated>
+    </task>
+    <task id="LOCAL-00012" summary="sorting array using cyclic sort">
+      <created>1693732813357</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693732813357</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +200,11 @@
     <MESSAGE value="return the index where it would be if it were inserted in order (ceiling of a number)&#10;array greater or = target" />
     <MESSAGE value="find letters greater than the target leetcode 744" />
     <MESSAGE value="find target ininfinite sorted array" />
-    <option name="LAST_COMMIT_MESSAGE" value="find target ininfinite sorted array" />
+    <MESSAGE value="swapping of number sorting of array using bubble sort" />
+    <MESSAGE value="returning peak elememnt in mountain array" />
+    <MESSAGE value="sorting array using selection sort" />
+    <MESSAGE value="sorting array using insertion sort" />
+    <MESSAGE value="sorting array using cyclic sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting array using cyclic sort" />
   </component>
 </project>
