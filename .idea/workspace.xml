@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="sorting array using cyclic sort">
-      <change afterPath="$PROJECT_DIR$/src/duplicatesinarray.java" afterDir="false" />
+    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="list of missing number leetcode 448">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Priyanshu kumar/IdeaProjects/Binarysearch1/Binarysearch&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.cyclesort">
+  <component name="RunManager" selected="Application.listofmissingnumber">
     <configuration name="cyclesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cyclesort" />
       <module name="Binarysearch" />
@@ -48,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findtargetininfinitesortedarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findtargetininfinitesortedarray" />
+    <configuration name="duplicatesinarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="duplicatesinarray" />
       <module name="Binarysearch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mountaininarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mountaininarray" />
+    <configuration name="listofmissingnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listofmissingnumber" />
       <module name="Binarysearch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.listofmissingnumber" />
+        <item itemvalue="Application.duplicatesinarray" />
         <item itemvalue="Application.cyclesort" />
         <item itemvalue="Application.insertionsort" />
         <item itemvalue="Application.selectionsort" />
-        <item itemvalue="Application.mountaininarray" />
-        <item itemvalue="Application.findtargetininfinitesortedarray" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +178,56 @@
       <option name="project" value="LOCAL" />
       <updated>1693732813357</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="leetcode 448 duplicate in array">
+      <created>1693755795086</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693755795086</updated>
+    </task>
+    <task id="LOCAL-00014" summary="leetcode 448 duplicate list in array">
+      <created>1693755829476</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693755829476</updated>
+    </task>
+    <task id="LOCAL-00015" summary="leetcode 287 find duplicates in array">
+      <created>1693756000487</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693756000487</updated>
+    </task>
+    <task id="LOCAL-00016" summary="leetcode 287 find duplicates in array">
+      <created>1693756018880</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693756018880</updated>
+    </task>
+    <task id="LOCAL-00017" summary="leetcode 287 find duplicates in array">
+      <created>1693756030408</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1693756030408</updated>
+    </task>
+    <task id="LOCAL-00018" summary="leetcode 448 find list of duplicates in array">
+      <created>1693756177550</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1693756177550</updated>
+    </task>
+    <task id="LOCAL-00019" summary="list of missing number leetcode 448">
+      <created>1693756486619</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1693756486619</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +253,11 @@
     <MESSAGE value="sorting array using selection sort" />
     <MESSAGE value="sorting array using insertion sort" />
     <MESSAGE value="sorting array using cyclic sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting array using cyclic sort" />
+    <MESSAGE value="leetcode 448 duplicate in array" />
+    <MESSAGE value="leetcode 448 duplicate list in array" />
+    <MESSAGE value="leetcode 287 find duplicates in array" />
+    <MESSAGE value="leetcode 448 find list of duplicates in array" />
+    <MESSAGE value="list of missing number leetcode 448" />
+    <option name="LAST_COMMIT_MESSAGE" value="list of missing number leetcode 448" />
   </component>
 </project>
