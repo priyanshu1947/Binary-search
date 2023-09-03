@@ -27,6 +27,7 @@ import java.util.List;
             }
 
             return duplicates;
+
         }
 
         static void swap(int[] arr, int first, int second) {
@@ -35,4 +36,5 @@ import java.util.List;
             arr[second] = temp;
         }
     }
+    // contributed by priyanshu kumar
 
