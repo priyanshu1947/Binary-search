@@ -1,22 +1,48 @@
-public class rotationcount
+public class Rotatedbinarysearchduplicates
 {
     public static void main(String[] args)
     {
-        int [] arr = {4,5,6,7,0,1,2};
-        System.out.println(rotationcount1(arr));
-        
+        int [] arr = {2,5,6,7,0,1,2};
+        System.out.println(findpivot(arr));
 
     }
 
-    private static int rotationcount1(int[] arr)
+    static int search(int[] nums, int target)
     {
-        int pivot = findpivot(arr);
-        if (pivot==-1)
+        int pivot = findpivot(nums);
+        if (pivot== -1)
         {
-            // array is not roatted
-            return 0;
+            return binarysearch(nums,target,0,nums.length-1);
         }
-        return pivot+1;
+        if (nums[pivot]== target)
+        {
+            return pivot;
+        }
+        if (target>=nums[0])
+        {
+            return binarysearch(nums,target,0,pivot-1);
+        }
+        else
+        {
+            binarysearch(nums,target,pivot+1,nums.length-1);
+        }
+        return -1;
+
+    }
+    static int binarysearch(int [] arr, int target, int start, int end) {
+        while (start <= end) {
+            // find the middle element
+
+            int middle = start + (end - start) / 2;
+            if (arr[middle] > target) {
+                end = middle - 1;
+            } else if (arr[middle] < target) {
+                start = middle + 1;
+            } else {
+                return middle;
+            }
+        }
+        return -1;
     }
     static int findpivot(int [] arr)
     {
