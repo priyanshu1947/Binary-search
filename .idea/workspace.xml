@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="list of missing number leetcode 448">
+    <list default="true" id="6da4087e-a391-4a66-8617-c756c0f259ce" name="Changes" comment="search in an rotated sorted array. leetcode 33;">
+      <change afterPath="$PROJECT_DIR$/src/rotationcount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rotatedbinarysearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rotatedbinarysearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,14 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Priyanshu kumar/IdeaProjects/Binarysearch1/Binarysearch&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.listofmissingnumber">
+  <component name="RunManager" selected="Application.rotationcount">
+    <configuration name="Rotatedbinarysearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rotatedbinarysearch" />
+      <module name="Binarysearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="cyclesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cyclesort" />
       <module name="Binarysearch" />
@@ -54,13 +63,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insertionsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="insertionsort" />
-      <module name="Binarysearch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="listofmissingnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="listofmissingnumber" />
       <module name="Binarysearch" />
@@ -68,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selectionsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selectionsort" />
+    <configuration name="rotationcount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rotationcount" />
       <module name="Binarysearch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.rotationcount" />
+        <item itemvalue="Application.Rotatedbinarysearch" />
         <item itemvalue="Application.listofmissingnumber" />
         <item itemvalue="Application.duplicatesinarray" />
         <item itemvalue="Application.cyclesort" />
-        <item itemvalue="Application.insertionsort" />
-        <item itemvalue="Application.selectionsort" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +229,35 @@
       <option name="project" value="LOCAL" />
       <updated>1693756486619</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="list of missing number leetcode 442">
+      <created>1693756551963</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1693756551963</updated>
+    </task>
+    <task id="LOCAL-00021" summary="list of missing number leetcode 442">
+      <created>1693756645142</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1693756645142</updated>
+    </task>
+    <task id="LOCAL-00022" summary="leetcode 268 missing number in an array">
+      <created>1693756793208</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1693756793208</updated>
+    </task>
+    <task id="LOCAL-00023" summary="search in an rotated sorted array. leetcode 33;">
+      <created>1693852688610</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1693852688610</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +288,9 @@
     <MESSAGE value="leetcode 287 find duplicates in array" />
     <MESSAGE value="leetcode 448 find list of duplicates in array" />
     <MESSAGE value="list of missing number leetcode 448" />
-    <option name="LAST_COMMIT_MESSAGE" value="list of missing number leetcode 448" />
+    <MESSAGE value="list of missing number leetcode 442" />
+    <MESSAGE value="leetcode 268 missing number in an array" />
+    <MESSAGE value="search in an rotated sorted array. leetcode 33;" />
+    <option name="LAST_COMMIT_MESSAGE" value="search in an rotated sorted array. leetcode 33;" />
   </component>
 </project>
